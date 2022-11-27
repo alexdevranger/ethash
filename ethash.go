@@ -40,9 +40,9 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/alexdevranger/node-1.8.27/common"
+	"github.com/alexdevranger/node-1.8.27/crypto"
+	"github.com/alexdevranger/node-1.8.27/log"
 )
 
 var (

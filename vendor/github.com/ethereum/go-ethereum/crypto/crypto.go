@@ -27,9 +27,9 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto/sha3"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/alexdevranger/node-1.8.27/common"
+	"github.com/alexdevranger/node-1.8.27/crypto/sha3"
+	"github.com/alexdevranger/node-1.8.27/rlp"
 )
 
 var (
